@@ -85,9 +85,9 @@ ADVANCED USAGE
 Change log
 ==========
 Version 1.1(beta)
-===========
+
 1.'setDbg()' method added
-==========
+
 2. 'setMaxItems' method added
 	
 	
