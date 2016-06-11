@@ -31,7 +31,7 @@ INSTALLATION
 	
 4. Add the following line in AndroidManifest.xml under Application tag
 
-	<activity android:name=".Rsspe.Rsspe_description"></activity>
+		<activity android:name=".Rsspe.Rsspe_description"></activity>
 	
 Done!
 
