@@ -4,10 +4,10 @@ Small android framework for handling RSS feeds in Android
 RSS Parser Engine(Rsspe)
 ========================
 
-Author : Salih kallai
-Version : 1.1(beta)
-Last modified : 11 Jun 16,11:46 PM
-Licence : Free for personal and commercial use, No credits required
+# Author : Salih kallai
+# Version : 1.1(beta)
+# Last modified : 11 Jun 16,11:46 PM
+# Licence : Free for personal and commercial use, No credits required
 			You can modify and redistribute my work, But selling is not permitted
 
 
@@ -81,8 +81,8 @@ Change log
 ==========
 Version 1.1(beta)
 ===========
-	1.'setDbg()' method added 
-	2. 'setMaxItems' method added
+1.'setDbg()' method added 
+2. 'setMaxItems' method added
 	
 	
 	
