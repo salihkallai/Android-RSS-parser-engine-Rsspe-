@@ -24,8 +24,8 @@ INSTALLATION
 3. We uses the following 3rd party libraries, so add dependencies properly
 
 	compile 'com.mcxiaoke.volley:library:1.0.19'
-    compile 'com.einmalfel:earl:1.0.0'
-    compile 'com.fabiendevos:nanotasks:1.1.0'
+    	compile 'com.einmalfel:earl:1.0.0'
+    	compile 'com.fabiendevos:nanotasks:1.1.0'
 	
 4. Add the following line in AndroidManifest.xml under Application tag
 
